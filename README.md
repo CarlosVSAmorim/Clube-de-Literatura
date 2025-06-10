@@ -35,3 +35,5 @@ Este sistema permite o cadastro e controle de empréstimos de revistas literári
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/clube-de-literatura.git
+
+![Gif do Projeto](https://i.imgur.com/qn84zCR.gif)
