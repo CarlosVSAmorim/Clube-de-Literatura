@@ -1,0 +1,14 @@
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\bin\Debug\net9.0\ClubeDeLiteratura.exe
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\bin\Debug\net9.0\ClubeDeLiteratura.deps.json
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\bin\Debug\net9.0\ClubeDeLiteratura.runtimeconfig.json
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\bin\Debug\net9.0\ClubeDeLiteratura.dll
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\bin\Debug\net9.0\ClubeDeLiteratura.pdb
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\obj\Debug\net9.0\ClubeDeLiteratura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\obj\Debug\net9.0\ClubeDeLiteratura.AssemblyInfoInputs.cache
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\obj\Debug\net9.0\ClubeDeLiteratura.AssemblyInfo.cs
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\obj\Debug\net9.0\ClubeDeLiteratura.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\obj\Debug\net9.0\ClubeDeLiteratura.dll
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\obj\Debug\net9.0\refint\ClubeDeLiteratura.dll
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\obj\Debug\net9.0\ClubeDeLiteratura.pdb
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\obj\Debug\net9.0\ClubeDeLiteratura.genruntimeconfig.cache
+C:\Users\Carlos\RiderProjects\ClubeDeLiteratura\ClubeDeLiteratura\obj\Debug\net9.0\ref\ClubeDeLiteratura.dll
